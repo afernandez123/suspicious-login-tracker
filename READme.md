@@ -17,3 +17,10 @@ This project is a lightweight Bash script that detects suspicious login activity
 
 ## Sample Output
 
+```
+Scanning for repeated failed SSH login attempts...
+55 ::1
+
+Checking for brute force attempts...
+ALERT: Possible brute force attack from IP ::1 with 55 failed attempts.
+```
