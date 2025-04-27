@@ -1,5 +1,12 @@
 # Suspicious Login Tracker (Linux CLI Brute Force Detection)
 
+[![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey?logo=linux)]()
+[![Category](https://img.shields.io/badge/Category-Cybersecurity-blue)]()
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]()
+[![Language](https://img.shields.io/badge/Language-Bash-yellow)]()
+
+---
+
 This project is a lightweight Bash script that detects suspicious login activity from system authentication logs. It scans for repeated failed SSH login attempts and triggers alerts when a brute force pattern is identified.
 
 ## Features
